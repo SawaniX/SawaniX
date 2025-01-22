@@ -1,4 +1,7 @@
-## Hi there 👋
+# SawaniX 🐼
+## About me
+- :wave: My name is Tom/Tomek
+- :chart_with_upwards_trend: I have more than 2 years of professional experience working with python, docker, jira and more
 
 <!--
 **SawaniX/SawaniX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
